@@ -1,0 +1,5 @@
+ERROR: File not found
+INFO: Process started
+WARNING: Low memory
+ERROR: Unable to connect
+INFO: Process completed
